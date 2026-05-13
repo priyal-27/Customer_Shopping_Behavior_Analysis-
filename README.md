@@ -91,9 +91,10 @@ Built an interactive Power BI dashboard to visualize:
 
 # 📁 Project Files
 
-
-├── Customer_Shopping_Behavior_Analysis.ipynb/
-├── customer_behavior_sql_queries.sql/
-├── customer_behavior_dashboard.pbix/
+```bash
+├── Customer_Shopping_Behavior_Analysis.ipynb
+├── customer_behavior_sql_queries.sql
+├── customer_behavior_dashboard.pbix
 ├── dataset/
+├── images/
 └── README.md
